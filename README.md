@@ -46,7 +46,7 @@ Follow these steps.
 $ yarn
 
 # Run
-$ yarn dev
+$ expo start
 ```
 
 ## Layout
